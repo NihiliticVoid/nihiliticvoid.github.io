@@ -150,4 +150,9 @@
 }
 
 /* 2xl */
-/* @media (min-width: 1536px) {}  */
+@media (min-width: 1536px) {
+  .about__img {
+    height: 36.5rem;
+    width: 28.375rem;
+  }
+}
